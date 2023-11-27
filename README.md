@@ -11,9 +11,7 @@
 3x-ui panel supporting multi-protocol, **Multi-lang (English,Farsi,Chinese,Russian,Vietnamese,Spanish)**
 **If you think this project is helpful to you, you may wish to give a** :star2:
 
-**Buy Me a Coffee :**
 
-- Tron USDT (TRC20): `TXncxkvhkDWGts487Pjqq1qT9JmwRUz8CC`
 
 # Install & Upgrade
 
